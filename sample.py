@@ -1,5 +1,5 @@
 class SampleClass():
-    name = 'sajna'
+    name = 'sajna sajna shajahan'
 obj = SampleClass()
 print(obj.name)
 
